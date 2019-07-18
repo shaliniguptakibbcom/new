@@ -2,4 +2,5 @@
 #include<conio.h>
 main()
 {
+  printf("hello");
 }
